@@ -16,11 +16,14 @@ WHY WE'RE DOING THIS
 Legal verification should be an open standard.
 
 GETTING STARTED
-Download the specification: https://specs.jureon.com/jvf-v1.0
+Download the specification:
+https://specs.jureon.com/jvf-v1.0
 
-    Join the consortium: https://consortium.jureon.com
+Join the consortium: 
+https://consortium.jureon.com
 
-    Access developer tools: https://dev.jureon.com
+Access developer tools:
+https://dev.jureon.com
 
 CERTIFICATION PATH
 While anyone can create .jvf files, only JUREON-certified tools may display the ".jvf Verified" seal. Certification ensures:
