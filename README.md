@@ -1,4 +1,4 @@
-# JUREON
+# JUREON: Where Every Citation Comes with a Chain of Custody while Encoding Certainty.
 
 What remains protected:
 
